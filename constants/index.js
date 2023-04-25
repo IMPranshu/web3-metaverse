@@ -72,17 +72,22 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: 'https://twitter.com/pkknowsnothing'
   },
   {
     name: 'linkedin',
     url: '/linkedin.svg',
+    link: 'https://www.linkedin.com/in/pranshu-kumar-agrawal-74988152/'
   },
   {
     name: 'instagram',
     url: '/instagram.svg',
+    link: 'https://www.instagram.com/pkknowsnothing/'
+
   },
   {
     name: 'facebook',
     url: '/facebook.svg',
+    link: 'https://pkknowsnothing.com/'
   },
 ];
