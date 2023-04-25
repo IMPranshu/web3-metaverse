@@ -50,21 +50,21 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: "Meta needs a new catalyst after stock`s 77% rally",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Bulls like Thomas Martin, senior portfolio manager at Globalt Investments, are optimistic that the digital ad market will rebound and help power more gains for the stock. ',
   },
   {
     imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    title: 'SpaceX Starship rocket grounded after botched launch created six-mile dust cloud',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        "Elon Musk`s Starship rocket has been grounded by US authorities amid claims a dust plume from the launch spread for miles and covered local wildlife.",
   },
   {
     imgUrl: '/planet-08.png',
     title: 'With one platform you can explore the whole world virtually',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'You can see eye-popping natural phenomena, explore mountain tops and deep caverns, and tour cities you`ve always dreamed of visiting.',
   },
 ];
 
